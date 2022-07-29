@@ -1,0 +1,66 @@
+[
+    {
+      "saldo": 500,
+      "id": 1,
+      "nombre": "Sara Sánchez Acosta",
+      "ImagenUrl": "src/img/fotoSara.png",
+      "usuario": "sara25",
+      "contrasena": "acosta25"
+    },
+    {
+      "saldo": 300,
+      "id": 2,
+      "nombre": "Elías Ríos Corral",
+      "ImagenUrl": "src/img/fotoElias.png",
+      "usuario": "elias14",
+      "contrasena": "rios14"
+    },
+    {
+      "saldo": 100,
+      "id": 3,
+      "nombre": "Esteban Soria Pérez",
+      "ImagenUrl": "src/img/fotoEsteban.png",
+      "usuario":"esteban78",
+      "contrasena":"soria78"
+    },
+    {
+      "saldo": 350,
+      "id": 4,
+      "nombre": "Adriana García Torres",
+      "ImagenUrl": "src/img/fotoAdriana.png",
+      "usuario":"adriana65",
+      "contrasena":"garcia65"
+    },
+    {
+      "saldo": 450,
+      "id": 5,
+      "nombre": "Alan López Rodríguez",
+      "ImagenUrl": "src/img/fotoAlan.png",
+      "usuario":"alan27",
+      "contrasena":"lopez27"
+    },
+    {
+      "saldo": 700,
+      "id": 6,
+      "nombre": "Alexa Medina Duarte",
+      "ImagenUrl": "src/img/fotoAlexa.png",
+      "usuario":"alexa42",
+      "contrasena":"medina42"
+    },
+    {
+      "saldo": 200,
+      "id": 7,
+      "nombre": "Saúl Vera Ávila",
+      "ImagenUrl": "src/img/fotoSaul.png",
+      "usuario":"saul97",
+      "contrasena":"vera97"
+    },
+    {
+      "saldo": 150,
+      "id": 8,
+      "nombre": "Eva Cruz Ortega",
+      "ImagenUrl": "src/img/fotoEva.png",
+      "usuario":"eva16",
+      "contrasena":"ortega16"
+    }
+  ]
